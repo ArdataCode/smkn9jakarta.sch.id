@@ -1,0 +1,1173 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "AKADEMY - Online Courses Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/a.catand.us",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Contact Form",
+            "screenshot": "screenshots\/block-contact-form.jpg",
+            "source": "templates\/block-contact-form.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Subscribe Form",
+            "screenshot": "screenshots\/block-subscribe-form.jpg",
+            "source": "templates\/block-subscribe-form.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Home",
+            "screenshot": "screenshots\/page-home.jpg",
+            "source": "templates\/page-home.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 About",
+            "screenshot": "screenshots\/page-about.jpg",
+            "source": "templates\/page-about.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Courses",
+            "screenshot": "screenshots\/page-courses.jpg",
+            "source": "templates\/page-courses.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Pricing",
+            "screenshot": "screenshots\/page-pricing.jpg",
+            "source": "templates\/page-pricing.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Testimonials",
+            "screenshot": "screenshots\/page-testimonials.jpg",
+            "source": "templates\/page-testimonials.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 FAQ",
+            "screenshot": "screenshots\/page-faq.jpg",
+            "source": "templates\/page-faq.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Blog",
+            "screenshot": "screenshots\/page-blog.jpg",
+            "source": "templates\/page-blog.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Contact",
+            "screenshot": "screenshots\/page-contact.jpg",
+            "source": "templates\/page-contact.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Course Details",
+            "screenshot": "screenshots\/page-course-details.jpg",
+            "source": "templates\/page-course-details.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-course-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Single Post",
+            "screenshot": "screenshots\/page-single-post.jpg",
+            "source": "templates\/page-single-post.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 404 Page",
+            "screenshot": "screenshots\/page-404-page.jpg",
+            "source": "templates\/page-404-page.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Coming Soon",
+            "screenshot": "screenshots\/page-coming-soon.jpg",
+            "source": "templates\/page-coming-soon.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/page-coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "landing-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Brand Logos",
+            "screenshot": "screenshots\/block-brand-logos.jpg",
+            "source": "templates\/block-brand-logos.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-brand-logos\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Feature Boxes",
+            "screenshot": "screenshots\/block-feature-boxes.jpg",
+            "source": "templates\/block-feature-boxes.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-feature-boxes\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Feature Grid",
+            "screenshot": "screenshots\/block-feature-grid.jpg",
+            "source": "templates\/block-feature-grid.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-feature-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Numbers",
+            "screenshot": "screenshots\/block-numbers.jpg",
+            "source": "templates\/block-numbers.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-numbers\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonial",
+            "screenshot": "screenshots\/block-testimonial.jpg",
+            "source": "templates\/block-testimonial.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-testimonial\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Course Boxes",
+            "screenshot": "screenshots\/block-course-boxes.jpg",
+            "source": "templates\/block-course-boxes.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-course-boxes\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Pricing Boxes",
+            "screenshot": "screenshots\/block-pricing-boxes.jpg",
+            "source": "templates\/block-pricing-boxes.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-pricing-boxes\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonial Boxes",
+            "screenshot": "screenshots\/block-testimonial-boxes.jpg",
+            "source": "templates\/block-testimonial-boxes.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-testimonial-boxes\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Course Index",
+            "screenshot": "screenshots\/block-course-index.jpg",
+            "source": "templates\/block-course-index.json",
+            "preview_url": "https:\/\/a.catand.us\/akademy\/template-kit\/block-course-index\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.8.3",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "akademy_logo.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/akademy_logo-800x160.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                },
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page \u2013 Coming Soon"
+                }
+            ],
+            "filesize": 14888,
+            "dimensions": [
+                1000,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "designers-scandi-home-office-P5SK4EV.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/designers-scandi-home-office-P5SK4EV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 222852,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5SK4EV"
+        },
+        {
+            "filename": "side-view-of-executive-working-with-camera-on-desk-VNDZ4WH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/side-view-of-executive-working-with-camera-on-desk-VNDZ4WH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                }
+            ],
+            "filesize": 147412,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VNDZ4WH"
+        },
+        {
+            "filename": "minimalistic-home-office-workplace-with-houseplant-3RNKBJC-e1629181925918.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/minimalistic-home-office-workplace-with-houseplant-3RNKBJC-e1629181925918-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                },
+                {
+                    "source": "templates\/page-404-page.json",
+                    "name": "Page \u2013 404 Page"
+                }
+            ],
+            "filesize": 141253,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3RNKBJC"
+        },
+        {
+            "filename": "asian-happy-student-girl-holding-smartphone-and-ex-9JP5ALM.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/asian-happy-student-girl-holding-smartphone-and-ex-9JP5ALM-800x1080.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                }
+            ],
+            "filesize": 344138,
+            "dimensions": [
+                1000,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JP5ALM"
+        },
+        {
+            "filename": "hand-working-on-a-laptop-another-holding-a-pen-PQX4439.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/hand-working-on-a-laptop-another-holding-a-pen-PQX4439-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 153662,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQX4439"
+        },
+        {
+            "filename": "image-YUW5FHE-2.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/image-YUW5FHE-2.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 5711,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUW5FHE"
+        },
+        {
+            "filename": "image-YUW5FHE-1.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/image-YUW5FHE-1.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 6025,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUW5FHE"
+        },
+        {
+            "filename": "image-YUW5FHE-3.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/image-YUW5FHE-3.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 5676,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUW5FHE"
+        },
+        {
+            "filename": "image-YUW5FHE-4.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/image-YUW5FHE-4.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 5033,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUW5FHE"
+        },
+        {
+            "filename": "image-YUW5FHE-5.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/image-YUW5FHE-5.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-brand-logos.json",
+                    "name": "Block - Brand Logos"
+                }
+            ],
+            "filesize": 5642,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUW5FHE"
+        },
+        {
+            "filename": "lady-programmers-creating-landing-page-NXUHYKQ.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/lady-programmers-creating-landing-page-NXUHYKQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 98758,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NXUHYKQ"
+        },
+        {
+            "filename": "decoding-data-JACH9WK.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/decoding-data-JACH9WK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-grid.json",
+                    "name": "Block - Feature Grid"
+                }
+            ],
+            "filesize": 54279,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JACH9WK"
+        },
+        {
+            "filename": "smiling-young-arabian-programmer-R2B7YMA.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/smiling-young-arabian-programmer-R2B7YMA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-grid.json",
+                    "name": "Block - Feature Grid"
+                }
+            ],
+            "filesize": 58799,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2B7YMA"
+        },
+        {
+            "filename": "freelancer-working-from-home-YQVBM7Z.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/freelancer-working-from-home-YQVBM7Z.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-grid.json",
+                    "name": "Block - Feature Grid"
+                }
+            ],
+            "filesize": 60590,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YQVBM7Z"
+        },
+        {
+            "filename": "young-black-businesswoman-sitting-at-office-desk-SQZDS5W.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/young-black-businesswoman-sitting-at-office-desk-SQZDS5W.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-grid.json",
+                    "name": "Block - Feature Grid"
+                }
+            ],
+            "filesize": 44533,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SQZDS5W"
+        },
+        {
+            "filename": "horizontal-shot-of-handsome-self-confident-busines-STUQYTL.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/horizontal-shot-of-handsome-self-confident-busines-STUQYTL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/block-testimonial.json",
+                    "name": "Block - Testimonial"
+                },
+                {
+                    "source": "templates\/block-testimonial-boxes.json",
+                    "name": "Block - Testimonial Boxes"
+                }
+            ],
+            "filesize": 30010,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-STUQYTL"
+        },
+        {
+            "filename": "meeting-of-it-engineers-RWQ5FP7.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/meeting-of-it-engineers-RWQ5FP7-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                }
+            ],
+            "filesize": 156993,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RWQ5FP7"
+        },
+        {
+            "filename": "young-fashion-designer-leaning-on-office-desk-SHWYZD3.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/young-fashion-designer-leaning-on-office-desk-SHWYZD3-800x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                }
+            ],
+            "filesize": 115491,
+            "dimensions": [
+                1200,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SHWYZD3"
+        },
+        {
+            "filename": "african-american-teen-student-looking-away-isolate-7Y69R29.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/07\/african-american-teen-student-looking-away-isolate-7Y69R29-800x1496.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                }
+            ],
+            "filesize": 685974,
+            "dimensions": [
+                1000,
+                1870
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7Y69R29"
+        },
+        {
+            "filename": "contemporary-home-office-with-white-walls-PV4ZR2B.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/contemporary-home-office-with-white-walls-PV4ZR2B-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                }
+            ],
+            "filesize": 116373,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PV4ZR2B"
+        },
+        {
+            "filename": "programmer-working-at-software-developement-compan-DR47SL2.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/programmer-working-at-software-developement-compan-DR47SL2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                }
+            ],
+            "filesize": 142921,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DR47SL2"
+        },
+        {
+            "filename": "image-of-confident-attractive-young-african-americ-EZEFAFT.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/image-of-confident-attractive-young-african-americ-EZEFAFT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                },
+                {
+                    "source": "templates\/block-testimonial-boxes.json",
+                    "name": "Block - Testimonial Boxes"
+                }
+            ],
+            "filesize": 34382,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZEFAFT"
+        },
+        {
+            "filename": "hands-of-contemporary-programmer-over-keypad-durin-9VJ4PNA.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/hands-of-contemporary-programmer-over-keypad-durin-9VJ4PNA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-courses.json",
+                    "name": "Page \u2013 Courses"
+                },
+                {
+                    "source": "templates\/page-course-details.json",
+                    "name": "Page \u2013 Course Details"
+                }
+            ],
+            "filesize": 135431,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9VJ4PNA"
+        },
+        {
+            "filename": "beautiful-smiling-african-american-female-with-cri-NB8DUN6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/beautiful-smiling-african-american-female-with-cri-NB8DUN6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-courses.json",
+                    "name": "Page \u2013 Courses"
+                },
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/block-testimonial-boxes.json",
+                    "name": "Block - Testimonial Boxes"
+                }
+            ],
+            "filesize": 37848,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NB8DUN6"
+        },
+        {
+            "filename": "selective-focus-of-laptop-on-table-and-african-ame-AVEYDTN.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/selective-focus-of-laptop-on-table-and-african-ame-AVEYDTN-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page \u2013 Pricing"
+                }
+            ],
+            "filesize": 141733,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AVEYDTN"
+        },
+        {
+            "filename": "software-developer-looking-at-camera-while-working-GHAS7B2.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/software-developer-looking-at-camera-while-working-GHAS7B2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page \u2013 Pricing"
+                }
+            ],
+            "filesize": 95462,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GHAS7B2"
+        },
+        {
+            "filename": "portrait-of-happy-woman-with-digital-tablet-in-hom-5JCSVAX.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/portrait-of-happy-woman-with-digital-tablet-in-hom-5JCSVAX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                }
+            ],
+            "filesize": 122449,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5JCSVAX"
+        },
+        {
+            "filename": "horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-testimonials.json",
+                    "name": "Page \u2013 Testimonials"
+                },
+                {
+                    "source": "templates\/block-testimonial-boxes.json",
+                    "name": "Block - Testimonial Boxes"
+                }
+            ],
+            "filesize": 26094,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F9MBGAR"
+        },
+        {
+            "filename": "designer-desk-space-for-designers-color-charts-mod-98GQ7NT.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/designer-desk-space-for-designers-color-charts-mod-98GQ7NT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-faq.json",
+                    "name": "Page \u2013 FAQ"
+                }
+            ],
+            "filesize": 169350,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-98GQ7NT"
+        },
+        {
+            "filename": "concluding-deal-with-coding-company-XS7RMTL.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/concluding-deal-with-coding-company-XS7RMTL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-blog.json",
+                    "name": "Page \u2013 Blog"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 136786,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XS7RMTL"
+        },
+        {
+            "filename": "programmer-and-ux-ui-designer-working-in-a-softwar-42XN4AE.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/programmer-and-ux-ui-designer-working-in-a-softwar-42XN4AE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                }
+            ],
+            "filesize": 142891,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-42XN4AE"
+        },
+        {
+            "filename": "handsome-male-student-carrying-books-and-a-backpac-USD9AJE.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/handsome-male-student-carrying-books-and-a-backpac-USD9AJE-800x1355.png",
+            "templates": [
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                }
+            ],
+            "filesize": 660843,
+            "dimensions": [
+                1000,
+                1694
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-USD9AJE"
+        },
+        {
+            "filename": "coded-stuff-on-screen-CD9PQJH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/coded-stuff-on-screen-CD9PQJH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 113485,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CD9PQJH"
+        },
+        {
+            "filename": "concentrated-on-coding-process-8A23RDL.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/concentrated-on-coding-process-8A23RDL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 112058,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8A23RDL"
+        },
+        {
+            "filename": "coding-information-in-office-54NGY8B.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/akademy\/wp-content\/uploads\/sites\/15\/2021\/08\/coding-information-in-office-54NGY8B-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page \u2013 Coming Soon"
+                }
+            ],
+            "filesize": 123851,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-54NGY8B"
+        }
+    ]
+}

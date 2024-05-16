@@ -1,0 +1,16 @@
+[24-May-2023 05:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ardatagr/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ardatagr/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2024 23:35:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Feb-2024 19:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-May-2024 06:22:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smkn9jakarta.sch.id/wp-includes/widgets/class-wp-widget-block.php on line 17
